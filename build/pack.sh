@@ -18,4 +18,5 @@ rm --force "$filename"
 zip --recurse-patterns "$filename" "*.md" "*.txt" "*.zs" "*.png" "*.ogg" "*.fp" > /dev/null
 
 # Launch GZDoom to check for errors.
+# The output is redirected to prevent character spam for some terminals.
 gzdoom  "$filename" "$@" > output 2>&1; cat output

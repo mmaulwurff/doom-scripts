@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# SPDX-FileCopyrightText: 2022 Alexander Kromm <mmaulwurff@gmail.com>
+#
+# SPDX-License-Identifier: MIT
+
 # This script prints misspelled words found in the mod files.
 # See files_to_check for what files are searched for words.
 #

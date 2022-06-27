@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# SPDX-FileCopyrightText: 2022 Alexander Kromm <mmaulwurff@gmail.com>
+#
+# SPDX-License-Identifier: MIT
+
 # This scripts creates a GZDoom mod package.
 # To use it, cd to the directory containing mod files, then
 #

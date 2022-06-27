@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# SPDX-FileCopyrightText: 2022 Alexander Kromm <mmaulwurff@gmail.com>
+#
+# SPDX-License-Identifier: MIT
+
 # This scripts creates a changelog file from Git history.
 #
 # Warning: the changelog overwrites changelog.txt file.

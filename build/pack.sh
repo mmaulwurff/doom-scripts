@@ -19,7 +19,7 @@ mkdir -p build
 rm --force "$filename"
 
 # Put all mod files into the archive.
-zip --recurse-patterns "$filename" "*.md" "*.txt" "*.zs" "*.png" "*.ogg" "*.fp" > /dev/null
+zip --recurse-patterns "$filename" "*.md" "*.txt" "*.zs" "*.png" "*.ogg" "*.mp3" "*.fp" "sndinfo.*" > /dev/null
 
 # Launch GZDoom to check for errors.
 # The output is redirected to prevent character spam for some terminals.

@@ -288,3 +288,9 @@ sndinfo
 spamm
 thcharacter
 ticrate
+affirmer
+discoverable
+optmnu
+spdx
+sublicensable
+switchtext

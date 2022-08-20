@@ -294,3 +294,8 @@ optmnu
 spdx
 sublicensable
 switchtext
+imgur
+keybind
+openmenu
+zandronum
+submenus
